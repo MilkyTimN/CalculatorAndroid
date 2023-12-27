@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="ac">AC</string>
+    <string name="abs">+/-</string>
+    <string name="percent">%</string>
+    <string name="div">/</string>
+</resources>
